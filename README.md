@@ -1,4 +1,4 @@
-> [!INFO]
+> [!NOTE]
 > This branch contains the following changes to this repo:
 > - `onetrueslash`: Changes app command name and description.
 
