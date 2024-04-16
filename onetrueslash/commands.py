@@ -24,7 +24,7 @@ async def onetrueslash(
     attachment: Optional[discord.Attachment] = None,
 ) -> None:
     """
-    The one true slash command.
+    The one true slash command. A command to access this application's instance of Red.
 
     Parameters
     -----------
